@@ -22,7 +22,7 @@
     "@crudifyjs/eslint-config-typescript": "0.0.6",
     "@zerollup/ts-transform-paths": "1.7.18",
     "agadoo": "2.0.0",
-    "bili": "4.10.1",
+    "bili": "5.0.5",
     "es-check": "5.1.0",
     "eslint": "7.6.0",
     "eslint-import-resolver-typescript": "2.2.0",
