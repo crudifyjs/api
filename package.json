@@ -23,7 +23,7 @@
     "@zerollup/ts-transform-paths": "1.7.18",
     "agadoo": "2.0.0",
     "bili": "4.10.1",
-    "es-check": "5.1.0",
+    "es-check": "5.2.4",
     "eslint": "7.6.0",
     "eslint-import-resolver-typescript": "2.2.0",
     "husky": "4.2.5",
